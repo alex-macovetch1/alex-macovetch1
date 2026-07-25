@@ -45,12 +45,6 @@ including for paying clients.
 
 ---
 
-### 📊 GitHub
-
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-macovetch1&show_icons=true&hide_border=true&count_private=true)
-
----
-
 <p align="center">
   <i>Frontend-first, moving into backend — auth, databases and API design are already part of what I ship.</i><br>
   🌍 Romanian · Russian (native) · English<br>
