@@ -1,52 +1,73 @@
 <h1 align="center">Hi, I'm Alexandru 👋</h1>
 
 <p align="center">
-  <b>Frontend developer</b> from Chișinău, Moldova · building with React &amp; Next.js<br>
-  I don't just learn stacks — I ship real, deployed products with them.
+  <b>Junior web developer</b> from Chișinău, Moldova · Next.js · React · TypeScript · Python<br>
+  Everything below is online right now — open any link and check it.
 </p>
 
 <p align="center">
-  <a href="https://alex-macovetch1.github.io/portofoliu/">🌐 Portfolio</a> ·
-  <a href="https://alex-macovetch1.github.io/portofoliu/cv/Alexandru-Macovetchi-CV.pdf">📄 CV</a> ·
-  <a href="mailto:alexmacovetchi23@gmail.com">✉️ Email</a>
+  <a href="https://alex-macovetch1.github.io/portofoliu/?lang=en">🌐 Portfolio</a> ·
+  <a href="https://alex-macovetch1.github.io/portofoliu/cv/Alexandru-Macovetchi-CV.pdf">📄 CV (PDF)</a> ·
+  <a href="mailto:alexmacovetchi23@gmail.com">✉️ alexmacovetchi23@gmail.com</a>
 </p>
-
----
-
-### 🚀 Things I've built and shipped
-
-| Project | What it is | Stack | Live |
-|---|---|---|---|
-| **[WASD](https://github.com/alex-macovetch1/wasd)** | E-commerce storefront for mechanical keyboards — 22 routes: catalog, product, cart, checkout, wishlist, account, admin panel, order tracking | Next.js 16 · React 19 · TypeScript · Tailwind 4 · Zustand | **[wasd-dun.vercel.app](https://wasd-dun.vercel.app)** |
-| **[Senkai](https://github.com/alex-macovetch1/senkai)** | Fullstack media hub — real accounts, sessions, a personal library persisted in Postgres, live catalogue from an external GraphQL API | Next.js 16 · TypeScript · Supabase / Postgres · REST API | **[senkai-app.vercel.app](https://senkai-app.vercel.app)** |
-| **[LeadBot](https://github.com/alex-macovetch1/leadbot)** | Bilingual (RO/RU) AI chat assistant that qualifies visitors, captures leads and searches a business's inventory — config-driven, one codebase serving multiple businesses | Next.js 16 · TypeScript · Google Gemini API | **[live demo](https://leadbot-inky.vercel.app/?b=imobiliar)** |
-| **[Playdex](https://github.com/alex-macovetch1/playdex)** | Games analytics dashboard — live RAWG API data, computed metrics, three charts, filtered browse &amp; detail views | Next.js 16 · React 19 · TypeScript · Recharts | **[playdex-omega.vercel.app](https://playdex-omega.vercel.app)** |
-| **[Portfolio](https://github.com/alex-macovetch1/portofoliu)** | Trilingual (RO/RU/EN) portfolio with real client work — runtime i18n, no framework, no build step | HTML · CSS · JavaScript | **[live](https://alex-macovetch1.github.io/portofoliu/)** |
-
-Everything above is deployed and open-source. Alongside these I build responsive
-presentation sites and SEO landing pages for small businesses as a freelancer,
-including for paying clients.
-
----
-
-### 🛠️ Tech I work with
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
----
 
 <p align="center">
-  <i>Frontend-first, moving into backend — auth, databases and API design are already part of what I ship.</i><br>
-  🌍 Romanian · Russian (native) · English<br>
-  💼 Open to remote roles and to positions in Chișinău
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel">
 </p>
+
+---
+
+### 💼 Paid client work
+
+**[TerraLux SPA](https://terralux.md/en/)** — website for a luxury spa in Chișinău. Three separate
+language versions (RO / RU / EN, 15 pages) with translated URLs for SEO. I build and maintain it,
+and I watch its uptime with my own monitoring tool. It is a real business paying for the work.
+
+I also build and maintain smaller business sites and landing pages for local clients.
+
+---
+
+### 🚀 Apps I built and deployed
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[WASD](https://wasd-dun.vercel.app)** · [code](https://github.com/alex-macovetch1/wasd) | Store for mechanical keyboards: 393 products, filters, cart, checkout, wishlist, order tracking, blog and an admin panel behind a login. 22 routes. | Next.js 16 · React 19 · TypeScript · Tailwind 4 · Zustand |
+| **[ALVEA](https://alvea-taupe.vercel.app)** *(private repo)* | Dental clinic site with real online booking: pick service, doctor, day and hour — a taken slot disappears for everyone else. 13 pages, 5 API routes, RO/RU. Double booking is blocked by a unique index in Postgres, not by frontend code. | Next.js 16 · TypeScript · Supabase Postgres · CSS Modules |
+| **[LeadBot](https://leadbot-inky.vercel.app)** · [code](https://github.com/alex-macovetch1/leadbot) | Chat widget in Romanian and Russian that asks visitors a few questions, shows matching offers and saves every lead in Postgres. One deployment serves 5 different businesses, chosen by a URL parameter. | Next.js 16 · TypeScript · Google Gemini API · Supabase |
+| **[Senkai](https://senkai-app.vercel.app)** · [code](https://github.com/alex-macovetch1/senkai) | Media tracker for anime, movies, series and games. Users register and log in, then keep a personal list saved on the server. Data comes from 3 external APIs (AniList GraphQL, Cinemeta, RAWG). Login and sessions are written by me, without an auth library. | Next.js 16 · TypeScript · Supabase Postgres |
+| **[Playdex](https://playdex-omega.vercel.app)** · [code](https://github.com/alex-macovetch1/playdex) | Games analytics dashboard on live RAWG data (900K+ games). No database — every number is computed from the API on the server and cached for one hour. 3 charts, filtered browse page, game pages. | Next.js 16 · React 19 · TypeScript · Recharts |
+| **[Portfolio](https://alex-macovetch1.github.io/portofoliu/?lang=en)** · [code](https://github.com/alex-macovetch1/portofoliu) | My own site: 3 languages switched without reload, light/dark theme, self-hosted fonts. No framework, no build step, no trackers and no analytics. | HTML · CSS · JavaScript |
+
+---
+
+### 🐍 Backend and Python
+
+Two tools I use myself. Both are typed, tested and run in Docker.
+The repositories are private — I can show the code in an interview.
+
+- **chirie-bot** — Telegram bot that watches new rental listings in Chișinău. It reads the private
+  GraphQL API of 999.md (faster and more stable than parsing HTML) plus a second site, filters by
+  price, district and rooms, and sends each new listing once. SQLite for history.
+  **78 tests**, `mypy --strict`, `ruff`, GitHub Actions on Python 3.11 and 3.12.
+- **site-monitor** — uptime monitor for client sites, running every 5 minutes. It checks HTTP status,
+  response time, TLS certificate expiry and that the page still contains the expected text, sends
+  Telegram alerts when the state changes, and generates a status page. **90 tests**, `mypy --strict`,
+  `ruff`, Docker Compose. It currently watches 9 sites, 3 of them paid client sites.
+
+---
+
+### 📌 About me
+
+I am a junior developer, and I learn by building things that actually run: databases, login,
+API routes and deployment are already part of my work, not only the UI. My daily tools are
+Next.js, TypeScript and Python.
+
+🌍 Romanian · Russian (native) · English (technical reading and writing) &nbsp;·&nbsp; 💼 Open to remote work and to jobs in Chișinău
