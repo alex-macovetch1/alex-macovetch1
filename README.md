@@ -15,4 +15,5 @@ I work with AI-assisted development (Claude Code): I decide what to build, revie
 Also: six live websites for a recurring client — see the [portfolio](https://alex-macovetch1.github.io/portofoliu/?lang=en).
 
 **Stack:** Next.js, React, TypeScript, WordPress, PostgreSQL / Supabase, Tailwind CSS, Vercel, Claude Code
+
 **Contact:** alexmacovetchi23@gmail.com · Romanian, Russian (native), English (B1) · Moldova, remote
