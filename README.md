@@ -7,7 +7,7 @@ I work with AI-assisted development (Claude Code): I decide what to build, revie
 
 | Project | What it is | Stack |
 |---|---|---|
-| [AgroParts](https://github.com/alex-macovetch1/agroparts) | Tractor-parts shop: 3,738 products, search by tractor model, cart, orders, admin panel | Next.js · Fastify · PostgreSQL |
+| [AgroParts](https://github.com/alex-macovetch1/agroparts) · [live](https://agroparts-demo.vercel.app) | Tractor-parts shop: search by tractor model, part variants, cart, orders, admin panel | Next.js · Fastify · PostgreSQL |
 | [ARCA](https://github.com/alex-macovetch1/arca-imobiliare) | Real-estate site with shareable filters, mortgage calculator and admin panel (demo) | Next.js |
 | [ALVEA](https://github.com/alex-macovetch1/alvea-dental) | Dental clinic site with online booking (demo) | Next.js · Supabase |
 | [WordPress](https://github.com/alex-macovetch1/alexweb-wordpress) | Theme and two plugins: custom post type, lead form with its own table | WordPress · PHP |
